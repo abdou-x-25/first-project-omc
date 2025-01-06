@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profile Card</title>
+  <link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="partie_css.css">
+</head>
+<body>
+  <main class="profile-card">
+    <div class="profile-header">
+      <img class="profile-picture" src="" alt=" photo de profile">
+    </div>
+    <div class="profile-body">
+      <h1>victor creset <span>26</span></h1>
+      <p class="location">London</p>
+    </div>
+    <div class="profile-stats">
+      <div>
+        <p class="stat-number">80K</p>
+        <p class="stat-label">Followers</p>
+      </div>
+      <div>
+        <p class="stat-number">803K</p>
+        <p class="stat-label">Likes</p>
+      </div>
+      <div>
+        <p class="stat-number">1.4K</p>
+        <p class="stat-label">Photos</p>
+      </div>
+    </div>
+  </main>
+</body>
+</html>
