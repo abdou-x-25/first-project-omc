@@ -10,7 +10,7 @@
 <body>
   <main class="profile-card">
     <div class="profile-header">
-      <img class="profile-picture" src="" alt=" photo de profile">
+      <img class="profile-picture" src="c:\Users\Slash\AppData\Local\Temp\image-victor.jpg" alt=" photo de profile">
     </div>
     <div class="profile-body">
       <h1>victor creset <span>26</span></h1>
